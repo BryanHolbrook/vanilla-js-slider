@@ -23,7 +23,7 @@ html {
 
 .carousel-container {
     width: 80%;
-    height: 80%;
+    height: 100%;
     margin: auto;
     margin-bottom: 10px;
     overflow: hidden;
